@@ -6,6 +6,8 @@
     <!-- Request the headset DoF mode -->
     <application
         android:allowBackup="false">
+
+      <meta-data android:name="com.samsung.android.vr.application.mode" android:value="vr_only"/>
         <activity
             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
             android:configChanges="locale|fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode"

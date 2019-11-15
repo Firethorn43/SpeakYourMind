@@ -16030,7 +16030,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 32fd04e87b890ad4f89b875537b9bec0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 16e2278e87b968143b58be35dcc946da, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -17646,7 +17646,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 32fd04e87b890ad4f89b875537b9bec0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 957c2a99d58fb374fb15691804e1987b, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -22999,7 +22999,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 32fd04e87b890ad4f89b875537b9bec0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 90dcb1d670ff95446addfb14493e1cf0, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -48611,7 +48611,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 32fd04e87b890ad4f89b875537b9bec0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ff65d5d57c950664ea3d2323a1277b51, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -64392,7 +64392,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 32fd04e87b890ad4f89b875537b9bec0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 8cb89f6fc9bda85449c6456a7ae78eb9, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -84083,7 +84083,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Orange = Larange
+  m_text: Orange = Laranja
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
